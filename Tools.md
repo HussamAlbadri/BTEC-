@@ -2,7 +2,7 @@
 
  In this section i will talk about some software tools that we use into our projects,but before this let's make some comparisons between the mentioned tools:
 
- ![Img](Chart.png)
+ ![Img](img/Chart.png)
 
  So, let's start:
 
