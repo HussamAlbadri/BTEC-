@@ -13,20 +13,16 @@
 
  ### Pycharm
 
- It is one of the most popular IDEs for Python development. PyCharm was designed specifically for Python.
-All of the extensions and plugins are geared toward making the Python development process easier.
-PyCharm comes with a number of built-in python databases and libraries, including MySQL and Oracle.
-It has room for a graphical debugger, code analysis, integration, Django web development, integrated unit testing, and version control system integration.
-PyCharm works on all platforms, including macOS, Linux, and Windows.
-
+It is one of the most commonly used IDEs for Python programming. PyCharm was created for Python Programming.
+The extensions and plugins are all designed to make the Python development process go more smoothly.
+MySQL and Oracle are among the built-in python databases and libraries in PyCharm.
+PyCharm is compatible with all operating systems, including Mac OS X, Linux, and Windows.
 
 ### Visual Studio Code
 
-VSCode is a source code editor, however its integrated development environment (IDE) and text editing features are limited. It works with a variety of programming languages, including Java, Go, JavaScript, and C++.
+VSCode is a source code editor with limited features in terms of an integrated development environment (IDE) and text editing. It supports Java, JavaScript, and C++, many other programming languages.
 
-VSCode is built on the Electron framework, which is used to create Node.js programs using the Blink layout engine.
-
-It does not use the project system, but it does allow users to have many directories that can be saved and reused. Users can exclude undesirable files from a project in VS =Code's settings.
+It doesn't use the system design, but it does allow users to create and save multiple directories. In VS Code options, users can exclude unnecessary data from a project.
 
 
 **Why do I choose VS Code insted of Pycharm?**
@@ -43,7 +39,12 @@ Vs code is an open-sourse platform, the API and the developing tools inside this
  Linux | Windows
  -------------|-------------
 
-Windows is a collection of operating systems, sometimes known as a computer operating system (OS), created by Microsoft for use on personal computers and other devices (PC). Each operating system includes a desktop with a graphical user interface (GUI) that allows users to see all files, movies, and other media. It's made to run on x86 hardware, which includes AMD and Intel processors. As a result, practically every manufacturer that makes PCs or laptops ships with Windows OS. Linux is a UNIX-based open-source operating system that was first released in 1991. It's a type of program that sits on top of all other software on a computer. Because it is an open-source operating system, users can edit the existing code and make distributions from it.
+Windows is one of Microsoft's operating systems, sometimes known as a computer operating system (OS).
+Each operating system comes with a graphical user interface (GUI) that displays all files, videos, and other media.
+As a result, almost every PC or laptop manufacturer now includes the Windows operating system.
+
+
+Linux is an open-source operating system based on the UNIX operating system that was initially released in 1991. It's a form of computer application that runs on top of all other software. It's an open-source operating system, thus it's free.
 
 **What type of OS do i use?**
 
@@ -57,21 +58,29 @@ GitHub | GitLab
 
 ### GitHub
 
-GitHub is a repository hosting platform that combines all of a developer's issue tracking and code management needs into one easy-to-use free package. GitHub is so well-known that it's nearly synonymous with Git.
+GitHub is a free repository hosting platform that combines all of a developer's issue tracking and code management needs in one manageable way. GitHub is so well-known that it's almost convertible with Git.
 
-GitHub hosts the vast majority of open-source code repositories. This is unsurprising given that it was the sole platform of its kind at the time of its creation. There aren't many free options that offer the same powerful core functionality.
-
-In 2018, Microsoft purchased GitHub, which resulted in a number of changes. Free private repositories with no limits and CI/CD integration were the most crucial of them. GitHub recently provided CI/CD connections in late 2019, however you've been able to utilize Jenkins with your GitHub projects for a long time.
+There are huge number of open-source code repositories are hosted on GitHub. Given that it was the only platform of its kind at the time of its introduction, this is expected. There are few free services that provide the same level of essential functionality.
 
 
 ### GitLab
 
-Unlike GitHub, GitLab was designed to be a testing platform rather than a repository hosting service. Dmitriy Zaporozhets began the project as an open-source project because he felt there was a need for a good collaborative tool. GitLab has always been a collaboration tool first and a repository second, with CI/CD at its foundation.
+GitLab, unlike GitHub, was created as a testing platform rather than a repository hosting service.   GitLab has always been first and primarily a collaboration tool, then a repository, with CI/CD at its base.
 
-As GitLab grew in popularity, the core product remained open source, dividing into two code bases. Individuals and open source initiatives were targeted for the community edition. And there was the Enterprise Edition, which was designed to give businesses the capabilities they required.
+GitLab's primary product maintained open source as it expanded in popularity, breaking into code bases. The community edition was designed for individuals and open source projects. There was also the Enterprise Edition, which was created to provide organizations with the tools they needed.
 
 **What type of Version-Control Platform  do i use?**
 
 Github, because most of my work depend on storing the data or the projects that i made into a platform that hosts these repostories not a testing platform.
 
+
+
+### Refrences 
+
+- https://spectralops.io/blog/github-vs-gitlab/
+- https://www.definitions.net/definition/GITHUB
+- https://about.gitlab.com/what-is-gitlab/
+- https://about.gitlab.com/what-is-gitlab/
+- https://www.softwaretestinghelp.com/linux-vs-windows/
+- https://content.techgig.com/pycharm-vs-visual-studio-code-which-one-to-choose-for-python-development/articleshow/75388084.cms
 
