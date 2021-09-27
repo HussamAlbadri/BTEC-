@@ -27,13 +27,13 @@ This API gives the user all the data that related to **User Interests** that con
   This API allows us to acquire third-party back-end data quickly, consistently, and reliably.
 
   ## API Endpoints/Request URLs
- [API](https://github.com/HussamAlbadri/city-api/pull/1)
- [Front-End](https://github.com/HussamAlbadri/city/pull/2)
+>[Heroku]( https://city-explorer-app404.herokuapp.com)
 
- [Front-End](https://github.com/HussamAlbadri/city/tree/lab07)
+>[Netlify](https://clever-hawking-fb65a1.netlify.app)
 
- [Front-End](https://github.com/HussamAlbadri/city/tree/master/src)
+>[City-Explorer](https://github.com/HussamAlbadri/city) ||  [City-Explorer-Api](https://github.com/HussamAlbadri/city-api)
  
+ >[Live URL](https://hussamalbadri.github.io/city/)
 
 
  ## Authentication Key
